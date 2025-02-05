@@ -109,7 +109,7 @@ const Register = () => {
         ) : submitted ? (
           <div className="text-center">
             <h3 className="text-lg font-semibold mb-2">
-              Thank you for registering!
+              Thank you for registering...!!!
             </h3>
             <p className="mb-1">Name: {userData.name}</p>
             <p className="mb-1">Email: {userData.email}</p>
